@@ -5,7 +5,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 0. Угадай число](https://colab.research.google.com/drive/1_cighYfbTK9j6_bWZ-UMvGdkZ22dY8nh?usp=sharing)
 * [Проект 0. Ссылка на альтернативный файл,сохраненный в GitHub](https://github.com/Kagemushe/sf_data_science/blob/main/guess_the_number.py)
-* [Проект 1.______](____)
+* [Проект 1. Ссылка на файл, сохраненный в GitHub](_https://github.com/Kagemushe/sf_data_science/blob/main/Project%20-1/Project-1._Анализ%20резюме%20из%20HeadHunter.ipynb___)
 * [Проект 2.______](____)
 # Проект 0. Угадай число
 
@@ -67,3 +67,23 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+
+# Проект 1. Анализ резюме из HeadHunter
+
+
+## Оглавление
+[1. Описание первого проекта](https://github.com/Kagemushe/sf_data_science/blob/main/README.md#Описание-первого-проекта)
+[2. Краткая информация о данных проекта](https://github.com/Kagemushe/sf_data_science/blob/main/README.md#Краткая-информация-о-данных-проекта)
+[3. Этапы работы над первым проектом](https://github.com/Kagemushe/sf_data_science/blob/main/README.md#Этапы-работы-над-первым-проектом)
+
+### Описание первого проекта
+Необходимо провести работу над данными анкет соискателей с сайта HeadHunter.
+
+### Краткая информация о данных проекта
+Предоставлен DataFrame с снеобработанными данными о анкетах соискателей. [Ссылка на DataFrame](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
+
+### Этапы работы над первым проектом
+   * 1. Исследование структуры данных.
+   * 2. Преобразование данных.
+   * 3. Исследование зависимостей в данных.
+   * 4. Очистка данных.
