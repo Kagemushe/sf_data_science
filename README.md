@@ -5,7 +5,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 0. Угадай число](https://colab.research.google.com/drive/1_cighYfbTK9j6_bWZ-UMvGdkZ22dY8nh?usp=sharing)
 * [Проект 0. Ссылка на альтернативный файл,сохраненный в GitHub](https://github.com/Kagemushe/sf_data_science/blob/main/guess_the_number.py)
-* [Проект 1. Ссылка на файл, сохраненный в GitHub](_https://github.com/Kagemushe/sf_data_science/blob/main/Project%20-1/Project-1._Анализ%20резюме%20из%20HeadHunter.ipynb___)
+* [Проект 1. Ссылка на файл, сохраненный в GitHub](https://github.com/Kagemushe/sf_data_science/blob/main/Project%20-1/Project-1._Анализ%20резюме%20из%20HeadHunter.ipynb)
 * [Проект 2.______](____)
 # Проект 0. Угадай число
 
